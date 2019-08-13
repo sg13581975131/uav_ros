@@ -1,0 +1,16 @@
+float32 Vx
+float32 Vy
+float32 Vz
+float32 X
+float32 Y
+float32 Z
+float32 Aim_X
+float32 Aim_Y
+float32 Aim_Z
+float32 pitch
+float32 yaw
+float32 roll
+float32 qx
+float32 qy
+float32 qz
+float32 qw
